@@ -15,7 +15,7 @@ Este projeto é um gerenciador de tarefas desenvolvido em Python utilizando Tkin
 
 1. Instale o Python no computador
 
-2. Baixe este repositório
+2. Baixe este arquivo
 
 3. Abra o terminal na pasta do projeto
 
